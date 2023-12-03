@@ -5,10 +5,15 @@
 ## Information
 
 Tool Name: BlackSpam
+
 Author: HackAzara
+
 Copyright: HackAzara (2023)
+
 Github: https://github.com/HackAzara/BlackSpam
+
 Telegram: https://t.me/h4ckAzara
+
 Description: BlackSpam is an email sending tool.
 
 ## Usage
