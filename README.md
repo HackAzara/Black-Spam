@@ -1,6 +1,6 @@
 # BlackSpam
 
-![BlackSpam](black_spam_image.jpg)
+![BlackSpam](Design.png)
 
 ## Information
 
